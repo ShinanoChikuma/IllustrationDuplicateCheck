@@ -1,0 +1,2 @@
+# IllustrationDuplicateCheck
+一种基于ResNet18和余弦相似度的图片查重
